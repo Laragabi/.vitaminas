@@ -1,0 +1,52 @@
+body {
+  margin:0px;
+}
+
+h1,h2 {
+  margin: 0;
+}
+
+#menu{
+  background-color:rgb(151, 67, 67);
+  color:white;
+  text-align: center;
+  padding: 10px;
+} 
+    
+
+#corpo {
+  background-color:rgb(243, 205, 205);
+  color:rgb(139, 50, 50);
+  margin: 24px;
+  padding: 16px;
+}
+
+.vitaminas2 {
+ padding-top: 35px;
+  padding-left: 65px;
+    
+}
+.vitaminas2 img {
+  width: 195px;
+  height: 205px;
+
+}
+.vitamina-sem-lactose{
+  margin-top: 60px;
+  text-align: center;
+}
+
+.alinharAoCentro{
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  margin-bottom: 36px;
+  
+}
+
+#menu2{
+  background-color:rgb(151, 67, 67);
+  color: white;
+  text-align: center;
+  padding: 10px;
+} 
